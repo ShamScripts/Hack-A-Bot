@@ -33,28 +33,7 @@ Hack-A-Bot/
 ✅ **Product showcases** for various electronic devices  
 ✅ **Shopping cart system** for easy purchases  
 ✅ **Device-specific pages** for different brands and models  
-
----
-
-## 🚀 Getting Started  
-
-1️⃣ **Clone the repository**  
-   ```sh
-   git clone https://github.com/ShamScripts/Hack-A-Bot.git
-   cd Hack-A-Bot
-   ```
-2️⃣ **Open `index.html`** in your preferred web browser  
-
----
-
-## 🤝 Contributing  
-
-Contributions are welcome! 🚀  
-If you'd like to contribute:  
-- Fork the repository  
-- Make your changes  
-- Submit a pull request  
-
+✅ **AI Chatbot** to assist users with product queries, purchases, and navigation
 ---
 
 ## 📜 License  
