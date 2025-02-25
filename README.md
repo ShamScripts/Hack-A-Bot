@@ -1,6 +1,6 @@
 # 🚀 Hack-A-Bot  
 
-Hack-A-Bot is a **web-based project** that showcases various **electronic devices**, particularly **mobile phones and laptops**. It features a shopping cart system and dedicated product pages for different brands.  
+**Hack-A-Bot** is a web-based project that showcases various **electronic devices**, particularly mobile phones and laptops. It features a shopping cart system, dedicated product pages for different brands, and an **AI-powered chatbot** designed to enhance **customer engagement** and **reduce cart abandonment**.
 
 ---
 
